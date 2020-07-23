@@ -1,0 +1,3 @@
+interface TitleObject {
+    title: string
+}
